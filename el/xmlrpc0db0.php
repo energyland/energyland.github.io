@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://energygatediesel.com</homePageLink>
+		<homePageLink>https://energyland.ae</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://energygatediesel.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://energygatediesel.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://energygatediesel.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://energygatediesel.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://energygatediesel.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://energyland.ae/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://energyland.ae/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://energyland.ae/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://energyland.ae/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://energyland.ae/wp-json/" />
 			</apis>
 	</service>
 </rsd>
